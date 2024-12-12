@@ -1,0 +1,1 @@
+./evrprogpowminer -U -P http://user:djsaoipne3@127.0.0.1:8819
