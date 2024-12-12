@@ -1,1 +1,1 @@
-./evrprogpowminer -U -P stratum+tcp://EPASBesX8WwRdpoX8sTCSNcUTYeDDHTzzF.worker@localhost:3333
+./evrprogpowminer -U -P stratum+tcp://EUdfx2QuceyQgfXDUCdbTxxJ2Kk6dfgCHt.worker@manticore.exchange:3334
